@@ -1,0 +1,47 @@
+#Background{
+  background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=2000);
+}
+#Background1{
+  background: url(https://storage.pixteller.com/designs/designs-images/2019-03-27/04/business-background-backgrounds-business-1-5c9b8f75536e8.png);
+  background-size: cover;
+}
+#Background2{
+  background: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+  background-size: cover;
+}
+#Background3{
+  background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+  background-size: cover;
+}
+#Background4{
+  background: url(https://striv.tv/wp-content/uploads/2020/09/simple-background-backgrounds-passion-simple-1-5c9b95d2b9dfb.png);
+  background-size: cover;
+}
+#Background5{
+  background: url(https://gadnrle.org/sites/default/files/parks/images/zoom/1920x1080-BlackRockMountain.jpg);
+  background-size: cover;
+}
+#Background6{
+  background: url(https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?w=1060&t=st=1659284992~exp=1659285592~hmac=165b757b4efe77783e147bd8536884fd4fc7be2780280b6608afe3350843937b);
+  background-size: cover;
+}
+#Background7{
+  background: url(https://img.freepik.com/free-vector/shiny-white-gray-background-with-wavy-lines_1017-25101.jpg?w=1380&t=st=1659285110~exp=1659285710~hmac=5b26290263b5f0ca4a32c0298a18228eaa43a17487d69b447f608a3450b18370);
+  background-size: cover;
+}
+#Background8{
+  background: url(https://images.all-free-download.com/images/graphicwebp/abstract_background_268729.webp);
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+h2{
+  text-align: center;
+  font-size: 15px;
+}
+
+.modal-button a {
+  color:white;
+}
