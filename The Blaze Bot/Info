@@ -1,5 +1,5 @@
 This is a discord bot where it pulls information from an online basketball simulation game: Basketball Gm (http://www.basketball-gm.com/)
-(Worked on it with a dev group, actively updating the discordbot(bug fixes and adding more useful features))
+(Worked on it with a dev group, actively updating the discordbot(daily bug fixes and adding more useful features))
 
 Purpose:
 • In the Basketball Gm site, you can extract a export link of a league file and using the league file link; you can inport the link onto the box using following commands provided
